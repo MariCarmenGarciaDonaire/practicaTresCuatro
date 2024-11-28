@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Color Shades Generator App
 
 - You can clone this repository to get the source code on your PC and then run `npm install` to install dependencies and packages.
@@ -7,3 +8,6 @@ API - [values.js](https://noeldelgado.github.io/values.js/)
 
 
 Live URL deployed [here](https://colorshadess-generator.netlify.app/).
+=======
+# practicaTresCuatro
+>>>>>>> 812d55981d1461a06480e68ca874ece02be3e918
